@@ -1,0 +1,4 @@
+este texto es de prueba 
+para avanzar con el curso.
+aprederemos contantemente
+secretos de Git y github.
